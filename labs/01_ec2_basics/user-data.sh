@@ -16,4 +16,6 @@ cat > /usr/share/nginx/html/index.html << 'HTML'
 HTML
 systemctl start nginx
 
+# End of file user-data.sh
+
     
